@@ -1,8 +1,8 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l21210469-cmyk/Practica0MSF)
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
-Nombre Apellido \[No control]: Paul A. Valle \[05211261]; correo1@tectijuana.edu.mx
+## Infromación del estudiante
+Preciado Henrnadez Andres [21210469]; l21210469@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
